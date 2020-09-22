@@ -1,4 +1,4 @@
-public class Chapter7 {
+public class Chapter8 {
 
     public static void main(String[] args) {
         String number = ("73167176531330624919225119674426574742355349194934\n" +
